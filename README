@@ -1,0 +1,9 @@
+FKI Working Alert
+
+This is a script written in AutoHotkey (www.autohotkey.com) that watches for an error message from the LibraryMate and then launches a mailto: shortcut in Windows to trigger Outlook to send an email. I recommend sending the email to a SMS gateway email so the message will turn up in a text message. The mailto shortcut can be configured to send a specific message, but the shorter the better. After all, this is designed to simply alert someone when there's a problem with the LibraryMate.
+
+Questions? Contact:
+Daniel Messer
+cyberpunklibrarian@gmail.com
+@bibrarian
+google.com/+DanielMesser
